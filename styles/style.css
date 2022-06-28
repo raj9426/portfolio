@@ -449,7 +449,7 @@ img:hover{
         transition: transform 0.5s;
         background: rgba(237, 61, 61, 0.346);
         font-size: 20px;
-        font-weigh: 700;
+        font-weight: 700;
     }
     .nav-active{
         transform: translateX(0);
