@@ -543,7 +543,7 @@ img:hover{
         width: 300px;
     }
 }
-@media screen and (max-width:383px) {
+@media screen and (max-width:476px) {
     .img-con{
         width: 8rem;
         height: 8rem;
