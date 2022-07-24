@@ -49,6 +49,10 @@ ul li div{
     font-weight: 600;
     gap: 4rem;
 }
+.nav-sidebarToggle div:hover{
+    transition: 0.5s;
+    color: rgb(251, 96, 96);
+}
 a{
     text-decoration: none;
     color: rgba(0, 0, 0, 0.73);
